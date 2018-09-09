@@ -1,6 +1,6 @@
 # Math
+Program to calculate the mean and standard deviation
 
-**TODO: Add description**
 
 ## Installation
 
